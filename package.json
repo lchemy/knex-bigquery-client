@@ -1,0 +1,25 @@
+{
+  "name": "@lchemy/knex-bigquery-client",
+  "version": "1.0.0",
+  "description": "",
+  "contributors": [
+    "Jesse Zhang"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lchemy/knex-bigquery-client.git"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "@google-cloud/bigquery": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/knex": "^0.14.0"
+  },
+  "peerDependencies": {
+    "knex": "^0.14.2",
+    "bluebird": "^3.4.6"
+  }
+}
