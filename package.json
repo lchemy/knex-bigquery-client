@@ -16,7 +16,7 @@
     "@google-cloud/bigquery": "^1.0.0"
   },
   "devDependencies": {
-    "@types/knex": "^0.14.0"
+    "@types/knex": "^0.14.4"
   },
   "peerDependencies": {
     "knex": "^0.14.2",
